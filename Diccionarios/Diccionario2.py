@@ -5,6 +5,6 @@ ordenador = {
 
 print("EL procesador es:",ordenador["Procesador"])
 
-ordenador["ram_gb"] = "32GB"
+ordenador["ram_gb"] = "64GB"
 
 print(ordenador["ram_gb"])

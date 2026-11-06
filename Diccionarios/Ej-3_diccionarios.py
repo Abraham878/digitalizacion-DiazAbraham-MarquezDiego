@@ -1,6 +1,6 @@
 pokemon = {
-    "Nombre": "Pikachu",
-    "Tipo": "Electrico",
+    "Nombre": "Charmander",
+    "Tipo": "Fuego",
     "Nivel": 25}
 
 
