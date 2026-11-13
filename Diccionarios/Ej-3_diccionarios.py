@@ -1,7 +1,7 @@
 pokemon = {
     "Nombre": "Charmander",
     "Tipo": "Fuego",
-    "Nivel": 25}
+    "Nivel": 0}
 
 
 
