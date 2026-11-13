@@ -1,7 +1,7 @@
 pokemon = {
     "Nombre": "Pikachu",
     "Tipo": "Electrico",
-    "Nivel": 25}
+    "Nivel": 40}
 
 clave = input("Dime una clave: ")
 
